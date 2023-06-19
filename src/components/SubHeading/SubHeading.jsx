@@ -1,5 +1,5 @@
 import React from 'react';
-import images from '../../constants/images';
+import { images } from '../../constants';
 
 const SubHeading = (props) => (
     <div style={{ marginBottom: '1rem' }}>
